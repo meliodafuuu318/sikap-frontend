@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873568883832",
+    "project_id": "flashcard-reviewer-app",
+    "storage_bucket": "flashcard-reviewer-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873568883832:android:7d4a4568b49b485cf7898d",
+        "android_client_info": {
+          "package_name": "com.example.flashcard_reviewer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1PqIjzJjXg21AYTGm6bB-JOFFH9hl4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
